@@ -1,4 +1,4 @@
-### Hi, I'm Asem 👋
+### Hi, I'm Asem Ameen Qaid 👋
 
 Third-year Electrical Engineering student at **Universitas Islam Indonesia**.
 I build and test electronic hardware for **control and energy** applications,
